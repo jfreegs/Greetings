@@ -6,10 +6,14 @@ body {
     padding: 0;
     border: 0;
     outline: 0;
+    
     font-family: 'IBM Plex Mono', monospace;
+    
     vertical-align: baseline;
     line-height: normal;
     -webkit-font-smoothing: antialiased;
+    
+  	color: ;
 }
 .typing {
   width: 100%;
