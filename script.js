@@ -1,4 +1,4 @@
-var messageArray = ["Typewriter Effect"];
+var messageArray = ["Welcome back Jackie"];
 var textPosition = 0;
 var speed = 100;
 
